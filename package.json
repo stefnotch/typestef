@@ -1,9 +1,12 @@
 {
-  "name": "typestef",
+  "name": "@stefnotch/typestef",
   "version": "1.0.0",
   "description": "Various utilities that should be in the JS standard library. Feel free to copy-paste the code instead of using this as a library.",
   "license": "Apache-2.0",
-  "repository": "https://github.com/stefnotch/typestef",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefnotch/typestef.git"
+  },
   "author": "Stefnotch",
   "type": "module",
   "exports": {
@@ -23,9 +26,12 @@
     "dist"
   ],
   "keywords": [],
-  "dependencies": {},
   "devDependencies": {
     "typescript": "^5.4.2",
     "np": "10.0.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/stefnotch/typestef/issues"
+  },
+  "homepage": "https://github.com/stefnotch/typestef#readme"
 }
