@@ -1,8 +1,8 @@
-# npm-typescript-template
+# Typestef
 
-A little template repository for NPM packages that use Typescript.
+Various utilities that should be in the JS standard library. Feel free to copy-paste the code instead of using this as a library.
 
-Use the template, make sure to fill out the `package.json` and get going!
+Dual licensed under the Apache License Version 2.0 and CC0.
 
 ## Scripts
 
