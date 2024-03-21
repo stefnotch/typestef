@@ -1,10 +1,10 @@
 {
-  "name": "",
+  "name": "typestef",
   "version": "1.0.0",
   "description": "",
-  "license": "BSD-3-Clause",
+  "license": "Apache License",
   "repository": "",
-  "author": "",
+  "author": "Stefnotch",
   "type": "module",
   "exports": {
     ".": {
@@ -25,7 +25,7 @@
   "keywords": [],
   "dependencies": {},
   "devDependencies": {
-    "typescript": "^4.9.4",
-    "np": "7.6.3"
+    "typescript": "^5.0.0",
+    "np": "10.0.1"
   }
 }
