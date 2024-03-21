@@ -23,7 +23,8 @@
     "release": "npm run build && np"
   },
   "files": [
-    "dist"
+    "dist",
+    "LICENSE-alternate"
   ],
   "keywords": [],
   "devDependencies": {
