@@ -1,6 +1,6 @@
 {
   "name": "@stefnotch/typestef",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Various utilities that should be in the JS standard library. Feel free to copy-paste the code instead of using this as a library.",
   "license": "Apache-2.0",
   "repository": {
