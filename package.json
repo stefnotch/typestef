@@ -15,6 +15,24 @@
         "default": "./dist/index.js",
         "types": "./dist/index.d.ts"
       }
+    },
+    "./array-utils": {
+      "import": {
+        "default": "./dist/array-utils.js",
+        "types": "./dist/array-utils.d.ts"
+      }
+    },
+    "./assert": {
+      "import": {
+        "default": "./dist/assert.js",
+        "types": "./dist/assert.d.ts"
+      }
+    },
+    "./map-utils": {
+      "import": {
+        "default": "./dist/async-utils.js",
+        "types": "./dist/async-utils.d.ts"
+      }
     }
   },
   "scripts": {
