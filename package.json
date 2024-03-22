@@ -30,8 +30,8 @@
     },
     "./map-utils": {
       "import": {
-        "default": "./dist/async-utils.js",
-        "types": "./dist/async-utils.d.ts"
+        "default": "./dist/map-utils.js",
+        "types": "./dist/map-utils.d.ts"
       }
     }
   },
