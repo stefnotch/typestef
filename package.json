@@ -11,28 +11,20 @@
   "type": "module",
   "exports": {
     ".": {
-      "import": {
-        "default": "./dist/index.js",
-        "types": "./dist/index.d.ts"
-      }
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
     },
     "./array-utils": {
-      "import": {
-        "default": "./dist/array-utils.js",
-        "types": "./dist/array-utils.d.ts"
-      }
+      "import": "./dist/array-utils.js",
+      "types": "./dist/array-utils.d.ts"
     },
     "./assert": {
-      "import": {
-        "default": "./dist/assert.js",
-        "types": "./dist/assert.d.ts"
-      }
+      "import": "./dist/assert.js",
+      "types": "./dist/assert.d.ts"
     },
     "./map-utils": {
-      "import": {
-        "default": "./dist/map-utils.js",
-        "types": "./dist/map-utils.d.ts"
-      }
+      "import": "./dist/map-utils.js",
+      "types": "./dist/map-utils.d.ts"
     }
   },
   "scripts": {
